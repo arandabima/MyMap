@@ -1,0 +1,12 @@
+- [x] **Data Update**
+    - [x] Update `LocationData.kt` with more locations (Ubud Cottages, Lembah Dieng)
+- [x] **Search UI & Logic in MapScreen.kt**
+    - [x] Add search state variables
+    - [x] Implement Search Bar UI
+    - [x] Implement Search filtering and Dropdown/Suggestions
+    - [x] Implement Camera animation to selected location
+    - [x] Implement Origin/Destination Selection Dialog
+- [x] **Verification**
+    - [x] Build and test the search functionality (Assemble Debug successful)
+    - [x] Verify Origin/Destination assignment
+    - [x] Verify Camera animation
