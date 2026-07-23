@@ -1,5 +1,3 @@
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/0b45fae8-34b7-48ad-8752-2fd1c2373b7e" /># MyMap
-
 MyMap adalah aplikasi Android sederhana yang dibuat menggunakan Kotlin dan Jetpack Compose untuk menampilkan lokasi pada Google Maps. Aplikasi ini memungkinkan pengguna untuk melihat peta secara interaktif dan menampilkan informasi lokasi secara real-time.
 
 ---
